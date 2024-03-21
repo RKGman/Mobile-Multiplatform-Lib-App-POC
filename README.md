@@ -5,5 +5,9 @@ Common shared code might require use of communicating with a server to handle bu
 
 # TODO:
 
-- Use IoC for dependency injection
+- Create a basic Android app that will use the shared library
+- Use IoC for dependency injection (in the library)
 - Determine if there is an HTTP client that will work in both native apps
+- Figure out a (budget friendly) way to develop for iOS / test library integration
+    - Test in a macOS environment
+
